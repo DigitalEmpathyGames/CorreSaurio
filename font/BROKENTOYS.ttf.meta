@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 22431b4036d745a42ba9f19170cdf68d
+timeCreated: 1523293298
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Broken Toys
+  fontNames:
+  - Broken Toys
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
